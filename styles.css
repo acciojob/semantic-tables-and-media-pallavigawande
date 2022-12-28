@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+th,td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: blueviolet;
+}
